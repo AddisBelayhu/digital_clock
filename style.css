@@ -3,19 +3,20 @@ body {
 }
 
 h1 {
-    color: white;
+    color: #17D4FE;
     margin-top: 100px;
     text-align: center;
     font-style: italic;
+    font-size: 60px;
 }
 
 .clock {
     position: absolute;
-    top: 200px;
+    top: 50%;
     left:50%;
     transform: translateX(-50%) translateY(-50%);
     color: #17D4FE;
-    font-size:60px;
+    font-size: 60px;
     font-family: Orbitron;
     letter-spacing: 7px;
 }
